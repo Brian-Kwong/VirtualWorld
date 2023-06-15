@@ -14,3 +14,9 @@ LEFT- Moves camera angle left 1 pixel
 RIGHT- Moves camera angle right 1 pixel
 R-Resets the world
 SPACE- Spawns new dudes (If a house is in a cave then spawns bears instead)
+
+
+# Creators :
+Ama : amandayu255
+Brian
+
