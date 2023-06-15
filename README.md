@@ -9,14 +9,13 @@ Once upon a time, there was a group of careless woodchoppers killing trees among
 
 # Controls
 UP- Moves camera angle up 1 pixel
-DOWN- Moves camera angle down 1 pixel
-LEFT- Moves camera angle left 1 pixel
-RIGHT- Moves camera angle right 1 pixel
-R-Resets the world
-SPACE- Spawns new dudes (If a house is in a cave then spawns bears instead)
+<br />DOWN- Moves camera angle down 1 pixel
+<br />LEFT- Moves camera angle left 1 pixel
+<br />RIGHT- Moves camera angle right 1 pixel
+<br />R-Resets the world
+<br />SPACE- Spawns new dudes (If a house is in a cave then spawns bears instead)
 
 
 # Creators :
-Ama : amandayu255
-\nBrian
+Ama : amandayu255 <br /> Brian
 
